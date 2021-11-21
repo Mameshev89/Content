@@ -1,7 +1,8 @@
 package domain;
 
 public class News {
-    private String titleNews;
-    private String contentNews;
-    private String imageUrl;
+    private int id;
+    private String link;
+    private String name;
+    private String type;
 }

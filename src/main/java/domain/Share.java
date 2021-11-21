@@ -2,5 +2,5 @@ package domain;
 
 public class Share {
     private int count;
-    private User [] users;
+    private int[] userReposted;//наличие репоста от текущего пользователя (1 — есть, 0 — нет)
 }

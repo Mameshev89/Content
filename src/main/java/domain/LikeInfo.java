@@ -2,6 +2,7 @@ package domain;
 
 public class LikeInfo {
     private int count;
-    private User name;
-    private String[] images;
+    private int[] userLikes;
+    private int[] canLike;
+    private int[] canPublish;
 }

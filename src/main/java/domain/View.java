@@ -1,5 +1,5 @@
 package domain;
 
-public class Vieving {
+public class View {
     private int count;
 }
